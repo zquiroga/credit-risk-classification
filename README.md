@@ -24,7 +24,9 @@ Factors considered in the analysis included data on:
 Machine Learning Model 
 
 Model Accuracy: 94%.
+
 Model Precision: for healthy loans the precision is 100%, for high-risk loans the precision is 87%.
+
 Model Recall: for healthy loans the recall score is 100%, for high-risk loans the recall score is 89%.
 
 # Summary
